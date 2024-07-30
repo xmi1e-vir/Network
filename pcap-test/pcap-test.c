@@ -1,7 +1,6 @@
 #include <pcap.h>
 #include <stdbool.h>
 #include <stdio.h>
-#include <arpa/inet.h>
 #include "new_libnet-headers.h"
 
 void usage() {
