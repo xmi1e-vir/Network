@@ -39,15 +39,3 @@ https://gitlab.com/gilgil/sns/-/wikis/pcap-programming/pcap-programming
 
 https://gitlab.com/gilgil/sns/-/wikis/pcap-programming/report-pcap-test
 
-### 제목
-
-char name[] = "홍길동";
-printf("[bob13][포렌식]pcap-test[%s]", name);
-
-### 기한
-
-2024.07.31 23:59
-
-### 제출
-
-bob@gilgil.net
