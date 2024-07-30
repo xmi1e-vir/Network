@@ -1,3 +1,5 @@
+// libnet-headers.h 에서 필요한 부분만 재정의
+
 #ifndef SIMPLE_LIBNET_HEADERS_H
 #define SIMPLE_LIBNET_HEADERS_H
 
