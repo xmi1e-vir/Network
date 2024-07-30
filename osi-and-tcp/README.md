@@ -8,7 +8,7 @@ OSI model 및 TCP/IP Layer 설명하는 과정에서 제작한 PPT 파일 및 �
 - git에 PPT 파일 및 그림 파일을 올릴 것.
 - 메일에는 PPT나 그림 파일을 첨부하지 말고 git 주소만 알려줄 것.
 
-### 세부
+### cd ..세부
 
 https://gitlab.com/gilgil/sns/-/wikis/osi-and-tcp/osi-and-tcp <br>
 https://gitlab.com/gilgil/sns/-/wikis/osi-and-tcp/report-osi-and-tcp
