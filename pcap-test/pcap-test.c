@@ -53,7 +53,7 @@ void print_packet_info(const struct pcap_pkthdr* header, const unsigned char* pa
             printf("Source Port: %d\n", ntohs(tcp->th_sport));
             printf("Destination Port: %d\n", ntohs(tcp->th_dport));
 
-            // 메시지 데이터 출력 (최대 32바이트)
+            // 메시지 데이터 출력 (최대 20바이트)
             int tcp_header_len = (tcp->th_off >> 4) * 4;
             int message_len = header->caplen - sizeof(struct libnet_ethernet_hdr) - (ip->ip_hl * 4) - tcp_header_len;
             int max_message_len = 20;
